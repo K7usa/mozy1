@@ -18,7 +18,7 @@ Ks_Moz_1
 <h7>year7 <fase="Cooper"></h7>
 
 <br><br>
-<body bgcolor="pink">
+<body bgcolor="yelow">
 <br>
 <center> <font size="45" color="green" fase="Ravie"> <b>mozy is beautiful </b></center> </font>
 <br>
