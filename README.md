@@ -24,7 +24,7 @@ Ks_Moz_1
 <br>
 <hr color="grey" size="16"> 
 
-<h2>  <font size="17" color="blue" face="Lucida Handwriting">  i love her </font> </h2>
+<h2>  <font size="17" color="red" face="Lucida Handwriting">  i love her </font> </h2>
 
 
 
