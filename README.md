@@ -19,7 +19,7 @@ Ks_Moz_1
 
 <br><br>
 <body bgcolor="pink">
-<bg>
+<br>
 <center> <font size="45" color="green" fase="Ravie"> <b>mozy is beautiful </b></center> </font>
 <br>
 <hr color="grey" size="16"> 
@@ -30,7 +30,7 @@ Ks_Moz_1
 
 
 <img src="3.jpeg" wight="100" height="100">
-<bg><br>
+<br><br>
 <a href="https://www.youtube.com/channel/UCG3seHDNKk6BbpA7aTYv_Jg" target="_blank">
 <center> посмори меня  </a>
 <br>
