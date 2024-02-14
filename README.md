@@ -29,7 +29,7 @@ Ks_Moz_1
 
 
 
-<img src="C:\Users\Natalia\Desktop\Atencion\3.jpeg" wight="100" height="100">
+<img src="3.jpeg" wight="100" height="100">
 <bg><br>
 <a href="https://www.youtube.com/channel/UCG3seHDNKk6BbpA7aTYv_Jg" target="_blank">
 <center> посмори меня  </a>
